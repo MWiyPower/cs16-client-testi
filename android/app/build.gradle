@@ -5,12 +5,12 @@ import java.time.temporal.ChronoUnit
 apply plugin: 'com.android.application'
 
 android {
-    namespace 'su.xash.cs16client'
+    namespace 'su.xashww.cs16client'
     ndkVersion = "27.2.12479018"
     compileSdk 35
 
     defaultConfig {
-        applicationId 'su.xash.cs16client'
+        applicationId 'su.xashww.cs16client'
         versionName '1.35'
         versionCode getBuildNum()
         minSdkVersion 21
