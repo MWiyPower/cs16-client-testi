@@ -1,5 +1,7 @@
-# CS16Client [![Build Status](https://github.com/Velaron/cs16-client/actions/workflows/build.yml/badge.svg)](https://github.com/Velaron/cs16-client/actions) <img align="right" width="128" height="128" src="https://github.com/Velaron/cs16-client/raw/main/android/app/src/main/ic_launcher-playstore.png" alt="CS16Client" />
+# CS16Client [![Build](https://github.com/MWiyPower/cs16-client-testi/actions/workflows/build.yml/badge.svg)(https://github.com/MWiyPower/cs16-client-testi/actions/workflows/build.yml)](https://github.com/Velaron/cs16-client/actions) <img align="right" width="128" height="128" src="https://github.com/Velaron/cs16-client/raw/main/android/app/src/main/ic_launcher-playstore.png" alt="CS16Client" />
 Counter-Strike reverse-engineered.
+
+[![Build](https://github.com/MWiyPower/cs16-client-testi/actions/workflows/build.yml/badge.svg)](https://github.com/MWiyPower/cs16-client-testi/actions/workflows/build.yml)
 
 ## Donate
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/velaron)
