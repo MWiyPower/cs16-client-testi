@@ -36,7 +36,6 @@ jobs:
           alias: ${{ secrets.ALIAS }}
           keyStorePassword: ${{ secrets.KEY_STORE_PASSWORD }}
           keyPassword: ${{ secrets.KEY_PASSWORD }}
-            openssl base64 -in your_keystore.keystore
         env:
           BUILD_TOOLS_VERSION: "34.0.0"
       - name: Upload artifacts
